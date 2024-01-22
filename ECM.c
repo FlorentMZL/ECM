@@ -683,8 +683,3 @@ int main()
 
     return 0;
 }
-// stp.math.univ-paris-diderot.fr : adresse de la machine : (ssh) etu-calcul2.math.univ-paris-diderot.fr
-// faire des graphiques
-// parler des courbes qui marchent mieux
-//  \g4 pour le temps et les détails
-// factorint prend l'arg qui enleve les autres algos.
